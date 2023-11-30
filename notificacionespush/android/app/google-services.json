@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019840858544",
+    "project_id": "notificacionespush-fdd8e",
+    "storage_bucket": "notificacionespush-fdd8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019840858544:android:0671c71337e4f5e583ae75",
+        "android_client_info": {
+          "package_name": "com.example.notificacionespush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqs5Qffde1rw3Qs1N1jFzYtmPXZ6iNmQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
